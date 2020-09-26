@@ -1,0 +1,21 @@
+mr-mime;mr.mime
+mr-rime;mr.rime
+type-null;type:null
+farfetchd;farfetch'd
+sirfetchd;sirfetch'd
+kommo-o;kommo-o
+hakamo-o;hakamo-o
+ho-oh;ho-oh
+nidoran-f;nidoran
+nidoran-m;nidoran
+jangmo-o;jangmo-o
+tapu-koko;tapu-koko
+tapu-lele;tapu-lele
+tapu-bulu;tapu-bulu
+tapu-fini;tapu-fini
+mr-mime-galarian;galarian mr.mime
+urshifu-single-strike;urshifu
+farfetchd-galarian;galarian farfetch'd
+wishwashi-solo;wishiwashi
+oricorio-baile;oricorio
+lycanroc-midday;lycanroc
